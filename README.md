@@ -37,6 +37,9 @@ Data Cleaning Code - <code style="color : green">data_cleaning.py</code>
 ## Normalisation 
 The data in the tables is present in the 3NF form. It has all atomic values and non redundant ransitive dependancies. 
 
+## Indexing
+Indexing has been done on crucial coulmns to do query optimzation and faster access. 
+
 # Data Mining 
 
 ## Frequent Itemset Mining 
